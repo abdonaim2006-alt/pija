@@ -28,7 +28,7 @@ export const products: Product[] = [
     salePrice: 69.99,
     image: 'summer-light',
     collection: 'été',
-    colors: ['Rose', 'beige'],
+    colors: ['Rose', 'beige', 'jaune'],
     sizes: ['S', 'M', 'L', 'XL'],
     rating: 4.6,
     reviews: 187,
