@@ -188,6 +188,7 @@ function ProductContent() {
                   const colorClasses: { [key: string]: string } = {
                     'Rose': 'bg-pink-400 border-pink-500',
                     'beige': 'text-beige-400 border-beige-500',
+                    'jaune': 'text-jaune-400 border-jaune-500',
                   }
                   const classes = colorClasses[color] || 'bg-gray-400 border-gray-500'
 
