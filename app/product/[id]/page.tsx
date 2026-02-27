@@ -28,6 +28,7 @@ function ProductContent() {
   const colorImageMap: { [key: string]: string } = {
     'Rose': '-rose',
     'beige': '-beige',
+    'jaune': '-jaune',
   }
 
   useEffect(() => {
